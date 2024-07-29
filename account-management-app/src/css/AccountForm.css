@@ -1,0 +1,45 @@
+.account-form-container {
+    background: url('https://static.vecteezy.com/system/resources/thumbnails/006/240/302/small_2x/abstract-soft-focus-sunset-field-landscape-of-yellow-flowers-and-grass-meadow-warm-golden-hour-sunset-sunrise-time-tranquil-spring-summer-nature-closeup-and-blurred-forest-background-idyllic-nature-photo.jpg') no-repeat center center fixed;
+    background-blend-mode: multiply;
+    background-color: #353535e2;
+    background-size: cover;
+    min-height: 100vh;
+    padding: 20px;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.account-form {
+    max-width: 450px;
+    width: 100%;
+    margin: auto;
+    background-color: rgba(28, 28, 28, 0.87) !important;
+    /* Dark background with some transparency */
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+}
+
+.account-form .form-group {
+    margin-bottom: 15px;
+    width: 100%;
+}
+
+.account-form .form-group input {
+    width: 100%;
+}
+
+.account-form .form-control {
+    background-color: #333;
+    color: #fff;
+    border: 1px solid #555;
+}
+
+.account-form .form-control:focus {
+    background-color: #444;
+    color: #fff;
+    border-color: #777;
+}
