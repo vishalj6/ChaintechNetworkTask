@@ -14,6 +14,20 @@ This project is a full-stack web application for user management and authenticat
 - **Responsive Design:** The application is responsive and works well on various devices.
 - **Error Handling:** Includes error handling and validation for user inputs.
 
+
+## Screenshots
+
+1. **Registration Form:**
+    ![Registration Form](https://github.com/user-attachments/assets/c2b53471-e2ca-46e1-aeb5-4324cd433952)
+
+2. **Login Form:**
+    ![Login Form](https://github.com/user-attachments/assets/8c63a3e1-d6ce-43b6-ba69-d7209fe4332f)
+
+3. **Profile Management:**
+    ![Profile Management](https://github.com/user-attachments/assets/fe526cc6-686f-4c61-8a46-2a09b679200b)
+
+
+
 ## Installation
 
 1. **Clone the Repository:**
@@ -66,17 +80,6 @@ This project is a full-stack web application for user management and authenticat
 - **Login:** Go to `/login` to log in to your account.
 - **Profile Management:** After logging in, go to `/` to manage your profile.
 - **Account Deletion:** Click the "Delete Account" button in the profile management section.
-
-## Screenshots
-
-1. **Registration Form:**
-    ![Registration Form]()
-
-2. **Login Form:**
-    ![Login Form]()
-
-3. **Profile Management:**
-    ![Profile Management]()
 
 ## Contributing
 
